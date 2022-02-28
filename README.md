@@ -6,4 +6,4 @@ Much of what I do combines solar energy and python; for example, the best practi
 
 I'm also behind the website [SolarStations.org](https://solarstations.org), the library [twoaxistracking](https://twoaxistracking.readthedocs.io/), and a co-maintainer of the solar energy systems modeling software [pvlib](http://pvlib-python.readthedocs.io).
 
-You can read more about me on my blog, [PredictablySunny.com](https://predictablysunny.com).
+If you want to know more, check out my blog [PredictablySunny.com](https://predictablysunny.com).
